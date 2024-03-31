@@ -47,5 +47,6 @@ Bootstrap
 ![contact1](https://github.com/Vasista28/Coding-Raja-Technologies-Internship-E-commerce/assets/162462892/cab48422-abd3-4a4b-9451-ce28675301ab)
 ![contact2](https://github.com/Vasista28/Coding-Raja-Technologies-Internship-E-commerce/assets/162462892/f3320ae5-1a3c-4192-aa87-3e746978e0ae)
 
-[Tushar Vasista]
+![Tushar Vasista] 
+
 This README file provides an overview of the e-commerce website for bags, including its features, technologies used, setup instructions, contribution guidelines, license information, and contact details. It aims to assist developers, contributors, and users in understanding the project and its functionalities.
