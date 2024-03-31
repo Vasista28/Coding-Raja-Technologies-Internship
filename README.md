@@ -28,22 +28,24 @@ CSS
 Bootstrap
 
 ## Home
-
-
-
-
+![home1](https://github.com/Vasista28/Coding-Raja-Technologies-Internship-E-commerce/assets/162462892/4dd8f996-a009-49bc-98b2-6a94aaed6563)
+![home2](https://github.com/Vasista28/Coding-Raja-Technologies-Internship-E-commerce/assets/162462892/127664eb-1bb9-4505-be21-2a980256299f)
+![home3](https://github.com/Vasista28/Coding-Raja-Technologies-Internship-E-commerce/assets/162462892/b9bad492-f2a6-4283-bb80-8c8816a98203)
+![home4](https://github.com/Vasista28/Coding-Raja-Technologies-Internship-E-commerce/assets/162462892/3893d4c0-c9ae-43eb-8eab-cb82f5e1c489)
+![home5](https://github.com/Vasista28/Coding-Raja-Technologies-Internship-E-commerce/assets/162462892/20ee6576-3099-4017-8f03-04c6f946298d)
 
 ## About us
-
-
-
+![about1](https://github.com/Vasista28/Coding-Raja-Technologies-Internship-E-commerce/assets/162462892/f80e299b-c2cb-461c-8541-f21efecf45e6)
+![about2](https://github.com/Vasista28/Coding-Raja-Technologies-Internship-E-commerce/assets/162462892/f0b95d9e-9875-4596-9b09-bf4a7b8de823)
+![about3](https://github.com/Vasista28/Coding-Raja-Technologies-Internship-E-commerce/assets/162462892/77573dbf-0979-490d-b5c9-8dd7e7022a23)
 
 ## Collections
-
+![collection1](https://github.com/Vasista28/Coding-Raja-Technologies-Internship-E-commerce/assets/162462892/769b0d68-a4c1-4d62-82da-2d60c13ddb17)
+![collection2](https://github.com/Vasista28/Coding-Raja-Technologies-Internship-E-commerce/assets/162462892/e2611ac7-f859-4fc1-9613-a60e48bc1925)
 
 ## Contact
-
+![contact1](https://github.com/Vasista28/Coding-Raja-Technologies-Internship-E-commerce/assets/162462892/cab48422-abd3-4a4b-9451-ce28675301ab)
+![contact2](https://github.com/Vasista28/Coding-Raja-Technologies-Internship-E-commerce/assets/162462892/f3320ae5-1a3c-4192-aa87-3e746978e0ae)
 
 [Tushar Vasista]
 This README file provides an overview of the e-commerce website for bags, including its features, technologies used, setup instructions, contribution guidelines, license information, and contact details. It aims to assist developers, contributors, and users in understanding the project and its functionalities.
-
